@@ -4,7 +4,6 @@ import collage.controller.ImageFactory;
 import collage.controller.ImageProperty;
 import collage.controller.collage.ImageCreator;
 import collage.entity.Image;
-import com.collage.twitter.collage.mojo.GitInfo;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -132,12 +131,7 @@ public class MainController {
         map.put("errorMessage", "commit id describe short "  + idDescribeShort + " git commit time = " + gitCommitTime);
         return "error";
     }
-    @RequestMapping(value = "/gitInfo")
-    public String gitInfo(Map<String, Object> map) {
-        map.put("errorMessage", "gitdescribe" + GitInfo.DESCRIBE);
 
-        return "error";
-    }
 
 
 

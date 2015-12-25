@@ -1,2 +1,8 @@
 0000000000000000000000000000000000000000 9adddfc9ecfdfc743ddb910147a86e0f2110fe90 Ruslan Tsushko <ruslan-2009-ua@yandex.ru> 1451003660 +0200	commit (initial): init commit
 9adddfc9ecfdfc743ddb910147a86e0f2110fe90 31b73ffc11c2c4f8ec22f92a3342fa89f2e98ae5 Ruslan Tsushko <ruslan-2009-ua@yandex.ru> 1451003778 +0200	commit (amend): init commit
+31b73ffc11c2c4f8ec22f92a3342fa89f2e98ae5 c735bea79f7ae48e2ea7031b53b18037b7c680f5 Ruslan Tsushko <ruslan-2009-ua@yandex.ru> 1451004494 +0200	commit (amend): init commit
+c735bea79f7ae48e2ea7031b53b18037b7c680f5 f51c320d9b0d11fb7bb5d7fa762ee2ade7293c1d Ruslan Tsushko <ruslan-2009-ua@yandex.ru> 1451006611 +0200	commit (amend): init commit
+f51c320d9b0d11fb7bb5d7fa762ee2ade7293c1d 1fb116b512124fe74ab3a7ffcdb961079905ccc1 Ruslan Tsushko <ruslan-2009-ua@yandex.ru> 1451006923 +0200	commit: clean git.properties
+1fb116b512124fe74ab3a7ffcdb961079905ccc1 4d9a3a357d2967acf7ef59027efb51d86d262b74 Ruslan Tsushko <ruslan-2009-ua@yandex.ru> 1451007510 +0200	commit: remove unuseble plugin
+4d9a3a357d2967acf7ef59027efb51d86d262b74 80729b23ad230a547dc2bfab498b4cbc50b2f2eb Ruslan Tsushko <ruslan-2009-ua@yandex.ru> 1451007664 +0200	commit (amend): remove unuseble plugin
+80729b23ad230a547dc2bfab498b4cbc50b2f2eb eea3b65f93005501d70eb34f1dce9b502c3e6f0f Ruslan Tsushko <ruslan-2009-ua@yandex.ru> 1451007894 +0200	commit: clean git.properies
